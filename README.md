@@ -1,2 +1,2 @@
-# C-31
-We learned about array and bird trajactory
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
